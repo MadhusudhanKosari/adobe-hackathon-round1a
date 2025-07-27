@@ -1,0 +1,7 @@
+# Core PDF processing libraries
+pdfplumber==0.10.3
+pypdf==3.17.4
+
+# Additional dependencies for robust processing
+pillow>=9.1.0
+cryptography>=36.0.0

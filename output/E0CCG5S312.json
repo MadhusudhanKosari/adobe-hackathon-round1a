@@ -1,0 +1,359 @@
+{
+  "timestamp": "2025-07-27T06:07:32.461364",
+  "filename": "E0CCG5S312.pdf",
+  "title": "ISTQB Expert Level Modules Overview",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 1,
+      "font_size": 24.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Foundation",
+      "page": 1,
+      "font_size": 24.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Level",
+      "page": 1,
+      "font_size": 24.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Extensions",
+      "page": 1,
+      "font_size": 24.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Version",
+      "page": 1,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H3",
+      "text": "1.0",
+      "page": 1,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "International",
+      "page": 1,
+      "font_size": 18.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Software",
+      "page": 1,
+      "font_size": 18.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Testing",
+      "page": 1,
+      "font_size": 18.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Qualifications",
+      "page": 1,
+      "font_size": 18.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Board",
+      "page": 1,
+      "font_size": 18.0,
+      "is_bold": false
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 2,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 3,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Revision",
+      "page": 3,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "History",
+      "page": 3,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Version",
+      "page": 3,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 3,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Remarks",
+      "page": 3,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 4,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Table",
+      "page": 4,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Contents",
+      "page": 4,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Revision",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "History",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "..........................................................................................................................................",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "........................................................................................................................................",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Introduction",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Foundation",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Level",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Extensions",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "............................................................................",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Agile",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Tester",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Extension",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "...............................................................",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Syllabus.........................................",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 4,
+      "font_size": 10.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 5,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgements",
+      "page": 5,
+      "font_size": 16.0,
+      "is_bold": false
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 6,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 6,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "the",
+      "page": 6,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Foundation",
+      "page": 6,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Level",
+      "page": 6,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Extensions",
+      "page": 6,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H3",
+      "text": "introduction",
+      "page": 6,
+      "font_size": 10.0,
+      "is_bold": false
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 7,
+      "font_size": 12.0,
+      "is_bold": false
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 7,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Foundation",
+      "page": 7,
+      "font_size": 16.0,
+      "is_bold": true
+    },
+    {
+      "level": "H1",
+      "text": "Level",
+      "page": 7,
+      "font_size": 16.0,
+      "is_bold": true
+    }
+  ],
+  "total_headings": 50,
+  "processing_status": "success"
+}
